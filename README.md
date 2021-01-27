@@ -7,7 +7,9 @@ Resolução das listas da matéria de Meta-heurísticas bio-inspiradas para otim
 
 ----
 
-gif GA:
+gif Lista_2:
+
+
 ![](https://github.com/Nazarique/meta-heuristicas-bioinspiradas/blob/main/Lista_2/lista-2.gif?raw=true)
 
 ----
